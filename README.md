@@ -1,1 +1,1 @@
-# pyshop1
+print("hello world")
